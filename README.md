@@ -29,6 +29,7 @@ Then just start server and you will see the web application in action.
 ## Make a `case_data` Table in the database
 
 Schema should be:
+<br>
 places <br>
 total cases <br>
 deceased <br>
